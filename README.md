@@ -1,4 +1,4 @@
-# Hi there, I'm Mafizuddin Chowdhury 👋
+# Hi there, I'm Mafiz Uddin Chowdhury 👋
 
 **Backend Developer & Aspiring ML Engineer · Python & Django · Bangladesh**
   
