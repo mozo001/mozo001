@@ -36,7 +36,7 @@ I am a Computer Science and Technology student passionate about backend architec
 ## 🎓 Education
 
 **Diploma in Computer Science and Technology** · CGPA: 3.83
-*Feni Computer Institute* · 2022 – Expected 2026
+*Feni Computer Institute* · 2022 – Expected 2027
 
 ---
 *"Building intelligent backends."*
