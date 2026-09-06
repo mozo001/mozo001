@@ -8,7 +8,7 @@ I am a Computer Science and Technology student passionate about backend architec
 
 * 🎓 Currently studying in my 7th semester for a Diploma in CST at Feni Computer Institute.
 * ⚙️ Developing web applications bridging traditional backend systems with ML models.
-* 🐧 Linux enthusiast, optimizing development workflows on Fedora Workstation with Hyprland.
+* 🐧 Linux enthusiast, optimizing development workflows on Archlinux Workstation with Hyprland.
 * 🌍 Actively preparing to pursue a BSc in Computer Science or Machine Learning in Hungary or China.
 
 ## 🛠️ Tech Stack
