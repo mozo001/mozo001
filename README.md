@@ -13,9 +13,9 @@ I am a Computer Science and Technology student passionate about backend architec
 
 ## 🛠️ Tech Stack
 
-**Languages & Frameworks:** Python, Django, Django REST Framework, React JS
+**Languages & Frameworks:** Python, Django, Django REST Framework, HTML, CSS
 **Databases:** SQLite, PostgreSQL
-**Environment & Tools:** Linux (Fedora), Git, Bash, Wayland/Hyprland
+**Environment & Tools:** Linux (Arch), Git, Bash, Wayland/Hyprland
 **Exploring:** Machine Learning Algorithms, AI Integrations
 
 ## 🚀 Featured Projects
