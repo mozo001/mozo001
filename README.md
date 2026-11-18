@@ -286,7 +286,8 @@ Improve scalability
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/mafiz-uddin-chowdhury-22672420a?"
+<a 
+href="https://www.linkedin.com/in/mafiz-uddin-chowdhury-22672420a?">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
