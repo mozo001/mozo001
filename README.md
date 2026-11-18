@@ -31,7 +31,7 @@
 ```python
 class BackendDeveloper:
 
-    name = "Salim Reza"
+    name = "Mafiz Uddin Chowdhury"
     role = "Python Backend Developer"
 
     primary_stack = [
