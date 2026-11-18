@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Salim%20Raza&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Python%20Backend%20Developer&descAlignY=60&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Mafiz%20Uddin%20Chowdhury&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Python%20Backend%20Developer&descAlignY=60&descSize=20" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Python+Backend+Developer;Django+%7C+Django+REST+Framework;REST+API+Developer;Backend+Engineering+Enthusiast;Learning+Scalable+System+Design" />
 
